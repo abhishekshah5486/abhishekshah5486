@@ -1,11 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm [Your Name], a passionate developer.
+
+## Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
 ## GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)
-
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&hide_border=true)
-
 
 ## Tech Stack
 
@@ -15,23 +16,30 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhishekshah5486&show_icons=true&theme=dark&hide_border=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshah5486&layout=compact&theme=dark&hide_border=true)
+
+## GitHub Trophies
+![Trophy](https://github-profile-trophy.vercel.app/?username=abhishekshah5486&theme=darkhub&margin-w=15&margin-h=15)
+
+## Activity Graph
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishekshah5486&theme=react-dark)
+
+## Dynamic Quotes
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
+
+## Recent GitHub Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Contact
-- [GitHub](https://github.com/abhishekshah5486)
-- [LinkedIn](https;//linkedin.com/in/curiousabhishek)
-- [Twitter](https://twitter.com/Abhishek_13May)
-
-<!--
-**abhishekshah5486/abhishekshah5486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourusername)
