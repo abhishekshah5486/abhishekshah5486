@@ -25,10 +25,8 @@ I'm Abhishek Kumar Shah, a passionate developer.
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshah5486&layout=compact&theme=dark&hide_border=true)
 
-## GitHub Trophies
 ![Trophy](https://github-profile-trophy.vercel.app/?username=abhishekshah5486&theme=darkhub&margin-w=15&margin-h=15)
 
-## Activity Graph
 [![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekshah5486&theme=merko)](https://github.com/abhishekshah5486/github-readme-activity-graph)
 
 ## Recent GitHub Activity
