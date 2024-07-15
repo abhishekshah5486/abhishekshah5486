@@ -26,7 +26,7 @@ I'm [Your Name], a passionate developer.
 ![Trophy](https://github-profile-trophy.vercel.app/?username=abhishekshah5486&theme=darkhub&margin-w=15&margin-h=15)
 
 ## Activity Graph
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abhishekshah5486&theme=react-dark)
+[![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekshah5486&theme=merko)](https://github.com/abhishekshah5486/github-readme-activity-graph)
 
 ## Dynamic Quotes
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
