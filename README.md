@@ -22,14 +22,6 @@ I'm Abhishek Kumar Shah, a passionate developer.
 
 [![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekshah5486&theme=merko)](https://github.com/abhishekshah5486/github-readme-activity-graph)
 
-## Contact
-- [GitHub](https://github.com/abhishekshah5486)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/Abhishek_13May)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sammorozov&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=abhishekshah5486&show_icons=true&theme=vision-friendly-dark">
