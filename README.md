@@ -1,8 +1,9 @@
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 # Hi there 👋
 
 I'm Abhishek Kumar Shah, a passionate developer.
 
-## Visitor Counter
 ![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
 <p align="center">
@@ -29,9 +30,6 @@ I'm Abhishek Kumar Shah, a passionate developer.
 
 ## Activity Graph
 [![Abhishek's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhishekshah5486&theme=merko)](https://github.com/abhishekshah5486/github-readme-activity-graph)
-
-## Dynamic Quotes
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
