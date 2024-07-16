@@ -4,8 +4,6 @@
 
 I'm Abhishek Kumar Shah, a passionate developer.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=abhishekshah5486&color=blueviolet)
-
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=abhishekshah5486&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
