@@ -4,7 +4,7 @@
 
 Abhishek is a Computer Science student with a passion for building things.
 
-Currently a first-year undergraduate at Scaler School of Technology, he is pursuing a Bachelor of Science (BSc) from BITS Pilani, graduating class of 2026. 
+Currently a sophomore at Scaler School of Technology, he is pursuing a Bachelor of Science (BSc) from BITS Pilani, graduating class of 2026. 
 
 Abhishek's interests lie in web development and app development, with a future exploration of iOS development on the horizon. An enthusiast for Artificial Intelligence and Machine Learning, he is constantly striving to learn and adapt in this ever-evolving field.
 
